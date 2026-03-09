@@ -48,7 +48,7 @@
 
   const API_KEY  = "CZinZB0vLwLEGJ67mJDGQ60gNfxHqRDlFXL41zFs346SKvTEiWCbJQQJ99CCACHYHv6XJ3w3AAAAACOGxQ68";
 
-  const ENDPOINT = "https://rurbi-mmjea3rb-eastus2.services.ai.azure.com/models/"
+  const ENDPOINT = "https://rurbi-mmjea3rb-eastus2.services.ai.azure.com/models/chat/completions?api-version=2024-05-01-preview"
 
   const MODEL   = "DeepSeek-V3.2"; // o DeepSeek-R1, o el nombre exacto que veas
 
