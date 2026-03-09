@@ -46,9 +46,9 @@
 
   // RELLENA ESTOS 3 VALORES CON LOS DE TU DEPLOYMENT DEEPSEEK
 
-  const API_KEY  = "PON_AQUI_TU_API_KEY";
+  const API_KEY  = "CZinZB0vLwLEGJ67mJDGQ60gNfxHqRDlFXL41zFs346SKvTEiWCbJQQJ99CCACHYHv6XJ3w3AAAAACOGxQ68";
 
-  const ENDPOINT = "https://juanl-mm2d7n70-swedencentral.services.ai.azure.com/models/"; // termina en /models/
+  const ENDPOINT = "https://rurbi-mmjea3rb-eastus2.services.ai.azure.com/models/"
 
   const MODEL   = "DeepSeek-V3.2"; // o DeepSeek-R1, o el nombre exacto que veas
 
